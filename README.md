@@ -8,3 +8,5 @@ Attention! All laid out by me, for informational purposes only! I do not encoura
 I am a Russian programmer who knows C++ programming language and html , css web protocols.
 
 Я являсь Русским программистом , знающим язык програмированния c++ и веб протоколы html , css.
+
+
